@@ -1,0 +1,10 @@
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\bin\Debug\BayesSpamFilter.exe.config
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\bin\Debug\BayesSpamFilter.exe
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\bin\Debug\BayesSpamFilter.pdb
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.csprojResolveAssemblyReference.cache
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.FrmMain.resources
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.Properties.Resources.resources
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.csproj.GenerateResource.Cache
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.csproj.CoreCompileInputs.cache
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.exe
+C:\Users\BlackLake\Documents\Visual Studio 2017\Projects\BayesSpamFilter\BayesSpamFilter\obj\Debug\BayesSpamFilter.pdb
